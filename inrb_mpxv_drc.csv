@@ -1,0 +1,861 @@
+﻿accession,lab_id,country,province,collection_date,host,sequencing_platform,bioinformatics_pipeline,
+,01nkv-mpx0016Or,DRC,Nord-Kivu,2024-06-01,human,Nanopore,ARTIC/medaka,
+,01nkv-mpx0017C,DRC,Nord-Kivu,2024-06-01,human,Nanopore,ARTIC/medaka,
+,02nkv-mpx0021C,DRC,Nord-Kivu,2024-06-14,human,Nanopore,ARTIC/medaka,
+,02nkv-mpx0022Or,DRC,Nord-Kivu,2024-06-14,human,Nanopore,ARTIC/medaka,
+,02nkv-mpx0024S,DRC,Nord-Kivu,2024-06-14,human,Nanopore,ARTIC/medaka,
+,03nkv-mpx0031C,DRC,Nord-Kivu,2024-06-16,human,Nanopore,ARTIC/medaka,
+,09nkv-mpx0064S,DRC,Nord-Kivu,2024-06-24,human,Nanopore,ARTIC/medaka,
+,24MPX0913V,DRC,Tshopo,2024-04-01,human,Illumina,CZid,
+,24MPX0915C,DRC,Tshopo,2024-04-12,human,Illumina,CZid,
+,24MPX0916V,DRC,Tshopo,2024-04-12,human,Illumina,CZid,
+,24MPX0917V,DRC,Tshopo,2024-04-01,human,Illumina,CZid,
+,24MPX0918V,DRC,Tshopo,2024-04-01,human,Illumina,CZid,
+,24MPX0919V,DRC,Tshopo,2024-04-02,human,Illumina,CZid,
+,24MPX0920V,DRC,Tshopo,2024-04-03,human,Illumina,CZid,
+,24MPX0921V,DRC,Tshopo,2024-04-02,human,Illumina,CZid,
+,24MPX0922C,DRC,Tshopo,2024-04-02,human,Illumina,CZid,
+,24MPX0923C,DRC,Tshopo,2024-04-04,human,Illumina,CZid,
+,24MPX0924C,DRC,Tshopo,2024-04-02,human,Illumina,CZid,
+,24MPX0925C,DRC,Tshopo,2024-04-03,human,Illumina,CZid,
+,24MPX0926V,DRC,Tshopo,2024-04-03,human,Illumina,CZid,
+,24MPX0927V,DRC,Tshopo,2024-04-04,human,Illumina,CZid,
+,24MPX0928V,DRC,Tshopo,2024-04-02,human,Illumina,CZid,
+,24MPX0929S,DRC,Mongala,2024-03-14,human,Illumina,CZid,
+,24MPX0934S,DRC,Mongala,2024-03-22,human,Illumina,CZid,
+,24MPX0949C,DRC,Equateur,2024-03-17,human,Illumina,CZid,
+,24MPX0951V,DRC,Equateur,2024-04-12,human,Illumina,CZid,
+,24MPX0952V,DRC,Equateur,2024-04-16,human,Illumina,CZid,
+,24MPX0995C,DRC,Equateur,2024-04-10,human,Illumina,CZid,
+,24MPX1000V,DRC,Equateur,2024-03-25,human,Illumina,CZid,
+,24MPX1001V,DRC,Equateur,2024-02-27,human,Illumina,CZid,
+,24MPX1004S,DRC,Equateur,2024-04-14,human,Illumina,CZid,
+,24MPX1005C,DRC,Equateur,2024-04-15,human,Illumina,CZid,
+,24MPX1006C,DRC,Equateur,2024-04-15,human,Illumina,CZid,
+,24MPX1015V,DRC,Equateur,2024-04-19,human,Illumina,CZid,
+,24MPX1016V,DRC,Equateur,2024-04-19,human,Illumina,CZid,
+,24MPX1017V,DRC,Equateur,2024-04-19,human,Illumina,CZid,
+,24MPX1018V,DRC,Equateur,2024-04-19,human,Illumina,CZid,
+,24MPX1019V,DRC,Equateur,2024-04-19,human,Illumina,CZid,
+,24MPX1020V,DRC,Equateur,2024-04-24,human,Illumina,CZid,
+,24MPX1021C,DRC,Mai-Ndombe,2024-03-25,human,Illumina,CZid,
+,24MPX1022C,DRC,Mai-Ndombe,2024-03-28,human,Illumina,CZid,
+,24MPX1024C,DRC,Mai-Ndombe,2024-03-27,human,Illumina,CZid,
+,24MPX1025V,DRC,Mai-Ndombe,2024-04-07,human,Illumina,CZid,
+,24MPX1033V,DRC,Equateur,2024-03-21,human,Illumina,CZid,
+,24MPX1056S,DRC,Mai-Ndombe,2024-04-14,human,Illumina,CZid,
+,24MPX1057C,DRC,Mai-Ndombe,2024-04-09,human,Illumina,CZid,
+,24MPX1072V,DRC,Mongala,2024-04-08,human,Illumina,CZid,
+,24MPX1076V,DRC,Mongala,2024-04-14,human,Illumina,CZid,
+,24MPX1079V,DRC,Sud-Ubangi,2024-04-10,human,Illumina,CZid,
+,24MPX1081C,DRC,Sud-Ubangi,2024-04-10,human,Illumina,CZid,
+,24MPX1082C,DRC,Sud-Ubangi,2024-04-14,human,Illumina,CZid,
+,24MPX1083V,DRC,Sud-Ubangi,2024-04-19,human,Illumina,CZid,
+,24MPX1085C,DRC,Sud-Ubangi,2024-04-21,human,Illumina,CZid,
+,24MPX1086V,DRC,Sud-Ubangi,2024-04-19,human,Illumina,CZid,
+,24MPX1199V,DRC,Tshopo,2024-04-29,human,Illumina,CZid,
+,24MPX1698S,DRC,Nord-Ubangi,2024-06-26,human,Nanopore,metatropic,
+,24MPX1702C,DRC,Sud-Ubangi,2024-06-28,human,Nanopore,metatropic,
+,24MPX1705C,DRC,Sud-Ubangi,2024-07-08,human,Nanopore,metatropic,
+,24MPX1779C,DRC,Tshopo,2024-07-18,human,Nanopore,metatropic,
+,24MPX1807V,DRC,Mai-Ndombe,2024-07-23,human,Nanopore,metatropic,
+,24MPX1808C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1810C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1811C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1812V,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1813C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1816C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1818C,DRC,Mai-Ndombe,2024-07-20,human,Nanopore,metatropic,
+,24MPX1823C,DRC,Mai-Ndombe,2024-07-23,human,Nanopore,metatropic,
+,24MPX1844V,DRC,Sud-Ubangi,2024-07-17,human,Nanopore,metatropic,
+,24MPX2016C,DRC,Tshopo,2024-07-27,human,Illumina,CZid,
+,24MPX2017C,DRC,Tshopo,2024-07-25,human,Illumina,CZid,
+,24MPX2018C,DRC,Tshopo,2024-08-05,human,Illumina,CZid,
+,24MPX2020V,DRC,Kwilu,2024-07-31,human,Illumina,CZid,
+,24MPX2021V,DRC,Kwilu,2024-08-02,human,Illumina,CZid,
+,24MPX2025C,DRC,Kinshasa,2024-08-12,human,Illumina,CZid,
+,24MPX2034C,DRC,Kinshasa,2024-08-14,human,Illumina,CZid,
+,24MPX2048C,DRC,Tshopo,2024-07-03,human,Nanopore,metatropic,
+,24MPX2049C,DRC,Tshopo,2024-07-09,human,Nanopore,metatropic,
+,24MPX2050C,DRC,Tshopo,2024-07-15,human,Nanopore,metatropic,
+,24MPX2051C,DRC,Tshopo,2024-07-15,human,Nanopore,metatropic,
+,24MPX2052C,DRC,Tshopo,2024-07-17,human,Nanopore,metatropic,
+,24MPX2053C,DRC,Tshopo,2024-07-21,human,Nanopore,metatropic,
+,24MPX2054C,DRC,Tshopo,2024-07-21,human,Nanopore,metatropic,
+,24MPX2058V,DRC,Sud-Ubangi,2024-07-28,human,Nanopore,metatropic,
+,24MPX2059C,DRC,Sud-Ubangi,2024-07-28,human,Nanopore,metatropic,
+,24MPX2076C,DRC,Sud-Ubangi,2024-08-02,human,Nanopore,metatropic,
+,24MPX2079C,DRC,Sud-Ubangi,2024-08-01,human,Nanopore,metatropic,
+,24MPX2080C,DRC,Sud-Ubangi,2024-08-01,human,Nanopore,metatropic,
+,24MPX2093C,DRC,Kinshasa,2024-08-16,human,Illumina,CZid,
+,24MPX2129C,DRC,Kinshasa,2024-08-19,human,Illumina,CZid,
+,24MPX2133V,DRC,Kinshasa,2024-08-20,human,Illumina,CZid,
+,24MPX2134V,DRC,Kinshasa,2024-08-20,human,Illumina,CZid,
+,24MPX2136C,DRC,Kinshasa,2024-08-20,human,Illumina,CZid,
+,24MPX2148C,DRC,Sud-Ubangi,2024-07-18,human,Illumina,CZid,
+,24MPX2149C,DRC,Sud-Ubangi,2024-07-27,human,Illumina,CZid,
+,24MPX2150V,DRC,Sud-Ubangi,2024-08-02,human,Illumina,CZid,
+,24MPX2153V,DRC,Kinshasa,2024-08-19,human,Illumina,CZid,
+,24MPX2163C,DRC,Sankuru,2024-08-14,human,Illumina,CZid,
+,24MPX2164C,DRC,Sankuru,2024-08-14,human,Illumina,CZid,
+,24MPX2165C,DRC,Sankuru,2024-08-14,human,Illumina,CZid,
+,24MPX2179C,DRC,Sud-Ubangi,2024-08-02,human,Illumina,CZid,
+,24MPX2184V,DRC,Mongala,2024-08-15,human,Illumina,CZid,
+,24MPX2187V,DRC,Mongala,2024-08-15,human,Illumina,CZid,
+,24MPX2188C,DRC,Sankuru,2024-08-14,human,Illumina,CZid,
+,24MPX2193C,DRC,Sankuru,2024-08-13,human,Illumina,CZid,
+,24MPX2196C,DRC,Sankuru,2024-08-05,human,Illumina,CZid,
+,24MPX2197C,DRC,Sankuru,2024-08-15,human,Illumina,CZid,
+,24MPX2201V,DRC,Kinshasa,2024-08-22,human,Illumina,CZid,
+,24MPX2203C,DRC,Kinshasa,2024-08-22,human,Illumina,CZid,
+,24MPX2279C,DRC,Kinshasa,2024-08-26,human,Illumina,CZid,
+,24MPX2280V,DRC,Kinshasa,2024-08-26,human,Illumina,CZid,
+,24MPX2287S,DRC,Kinshasa,2024-08-23,human,Illumina,CZid,
+,24MPX2295S,DRC,Kasai,2024-08-06,human,Illumina,CZid,
+,24MPX2296S,DRC,Kasai,2024-08-15,human,Illumina,CZid,
+,24MPX2302S,DRC,Kwilu,2024-08-14,human,Illumina,CZid,
+,24MPX2304V,DRC,Kwilu,2024-08-19,human,Illumina,CZid,
+,24MPX2336V,DRC,Sud-Ubangi,2024-08-19,human,Illumina,CZid,
+,24MPX2350C,DRC,Sud-Ubangi,2024-08-11,human,Illumina,CZid,
+,24MPX2351S,DRC,Sud-Ubangi,2024-08-13,human,Illumina,CZid,
+,24MPX2353C,DRC,Sud-Ubangi,2024-08-15,human,Illumina,CZid,
+,24MPX2354V,DRC,Kinshasa,2024-08-28,human,Illumina,CZid,
+,24MPX2392V,DRC,Kinshasa,2024-08-28,human,Illumina,CZid,
+,24MPX2497V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2512C,DRC,Mai-Ndombe,2024-08-18,human,Nanopore,metatropic,
+,24MPX2522V,DRC,Mongala,2024-08-28,human,Nanopore,metatropic,
+,24MPX2526V,DRC,Mongala,2024-08-27,human,Nanopore,metatropic,
+,24MPX2528V,DRC,Mongala,2024-08-27,human,Nanopore,metatropic,
+,24MPX2529C,DRC,Mongala,2024-08-28,human,Nanopore,metatropic,
+,24MPX2535V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2537V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2540V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2541V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2556V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2557V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2558C,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2559V,DRC,Kinshasa,2024-08-30,human,Nanopore,metatropic,
+,24MPX2560C,DRC,Kinshasa,2024-08-31,human,Nanopore,metatropic,
+,24MPX2565V,DRC,Kinshasa,2024-09-01,human,Nanopore,metatropic,
+,24MPX2567V,DRC,Kinshasa,2024-09-01,human,Nanopore,metatropic,
+,24MPX2569c1,DRC,Kwango,2024-08-29,human,Illumina,CZid,
+,24MPX2569c2,DRC,Kwango,2024-08-29,human,Illumina,CZid,
+,24MPX2569v1,DRC,Kwango,2024-08-29,human,Illumina,CZid,
+,24MPX2569v2,DRC,Kwango,2024-08-29,human,Illumina,CZid,
+,24MPX2584V,DRC,Kinshasa,2024-09-01,human,Nanopore,metatropic,
+,24MPX2588V,DRC,Kinshasa,2024-08-31,human,Nanopore,metatropic,
+,24MPX2590V,DRC,Kinshasa,2024-09-01,human,Nanopore,metatropic,
+,24MPX2623C,DRC,Mai-Ndombe,2024-08-10,human,Nanopore,metatropic,
+,24MPX2624V,DRC,Mai-Ndombe,2024-08-09,human,Nanopore,metatropic,
+,24MPX2626V,DRC,Mai-Ndombe,2024-07-27,human,Nanopore,metatropic,
+,24MPX2627V,DRC,Mongala,2024-08-28,human,Nanopore,metatropic,
+,24MPX2630V,DRC,Mai-Ndombe,2024-08-14,human,Nanopore,metatropic,
+,24MPX2631V,DRC,Mai-Ndombe,2024-08-27,human,Nanopore,metatropic,
+,24MPX2632V,DRC,Mai-Ndombe,2024-08-27,human,Nanopore,metatropic,
+,24MPX2633V,DRC,Mai-Ndombe,2024-08-28,human,Nanopore,metatropic,
+,24MPX2634V,DRC,Mai-Ndombe,2024-08-10,human,Nanopore,metatropic,
+,24MPX2637V,DRC,Mai-Ndombe,2024-08-10,human,Nanopore,metatropic,
+,24MPX2639V,DRC,Mai-Ndombe,2024-08-27,human,Illumina,CZid,
+,24MPX2640V,DRC,Mai-Ndombe,2024-08-27,human,Illumina,CZid,
+,24MPX2641V,DRC,Mai-Ndombe,2024-08-27,human,Nanopore,ARTIC/medaka,
+,24MPX2643V,DRC,Mai-Ndombe,2024-08-12,human,Nanopore,ARTIC/medaka,
+,24MPX2647V,DRC,Mai-Ndombe,2024-08-13,human,Nanopore,ARTIC/medaka,
+,24MPX2648V,DRC,Mai-Ndombe,2024-08-13,human,Nanopore,ARTIC/medaka,
+,24MPX2653V,DRC,Mai-Ndombe,2024-08-06,human,Nanopore,ARTIC/medaka,
+,24MPX2655C,DRC,Mai-Ndombe,2024-07-13,human,Nanopore,ARTIC/medaka,
+,24MPX2663V,DRC,Kinshasa,2024-09-01,human,Nanopore,metatropic,
+,24MPX2686S,DRC,Bas-Uele,2024-08-05,human,Nanopore,ARTIC/medaka,
+,24MPX2691V,DRC,Kwilu,2024-08-21,human,Nanopore,ARTIC/medaka,
+,24MPX2698V,DRC,Kwango,2024-08-22,human,Nanopore,ARTIC/medaka,
+,24MPX2706V,DRC,Kinshasa,2024-09-04,human,Nanopore,metatropic,
+,24MPX2710V,DRC,Kinshasa,2024-09-04,human,Nanopore,metatropic,
+,24MPX2720V,DRC,Kinshasa,2024-09-03,human,Nanopore,metatropic,
+,24MPX2738V,DRC,Sud-Ubangi,2024-08-26,human,Nanopore,ARTIC/medaka,
+,24MPX2753V,DRC,Sud-Ubangi,2024-08-14,human,Nanopore,ARTIC/medaka,
+,24MPX2755V,DRC,Sud-Ubangi,2024-08-14,human,Nanopore,ARTIC/medaka,
+,24MPX2759V,DRC,Sud-Ubangi,2024-08-10,human,Nanopore,ARTIC/medaka,
+,24MPX2761V,DRC,Sud-Ubangi,2024-08-18,human,Nanopore,ARTIC/medaka,
+,24MPX2762V,DRC,Sud-Ubangi,2024-08-19,human,Nanopore,ARTIC/medaka,
+,24MPX2766V,DRC,Mai-Ndombe,2024-07-19,human,Nanopore,ARTIC/medaka,
+,24MPX2815V,DRC,Kinshasa,2024-09-06,human,Nanopore,metatropic,
+,24MPX2828C,DRC,Kinshasa,2024-09-04,human,Nanopore,metatropic,
+,24MPX2829C,DRC,Kinshasa,2024-09-05,human,Nanopore,metatropic,
+,24MPX2830V,DRC,Kinshasa,2024-09-05,human,Nanopore,metatropic,
+,24MPX2832V,DRC,Kinshasa,2024-09-06,human,Nanopore,metatropic,
+,24MPX2851V,DRC,Kinshasa,2024-09-09,human,Nanopore,metatropic,
+,24MPX2903V,DRC,Kwilu,2024-08-28,human,Nanopore,ARTIC/medaka,
+,24MPX2915V,DRC,Tanganyika,2024-09-03,human,Nanopore,ARTIC/medaka,
+,24MPX2916V,DRC,Tanganyika,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX2925V,DRC,Kinshasa,2024-09-09,human,Nanopore,metatropic,
+,24MPX2926V,DRC,Kinshasa,2024-09-09,human,Nanopore,metatropic,
+,24MPX2941V,DRC,Kongo-Central,2024-08-30,human,Nanopore,ARTIC/medaka,
+,24MPX2947S,DRC,Nord-Ubangi,2024-08-20,human,Nanopore,metatropic,
+,24MPX2948C,DRC,Nord-Ubangi,2024-08-20,human,Nanopore,ARTIC/medaka,
+,24MPX2950C,DRC,Nord-Ubangi,2024-09-02,human,Nanopore,ARTIC/medaka,
+,24MPX2952C,DRC,Tshopo,2024-08-24,human,Nanopore,ARTIC/medaka,
+,24MPX2994C,DRC,Tshopo,2024-08-19,human,Nanopore,ARTIC/medaka,
+,24MPX3018V,DRC,Kinshasa,2024-09-09,human,Nanopore,metatropic,
+,24MPX3023V,DRC,Kinshasa,2024-09-09,human,Nanopore,metatropic,
+,24MPX3025V,DRC,Kinshasa,2024-09-10,human,Nanopore,metatropic,
+,24MPX3032V,DRC,Kinshasa,2024-09-10,human,Nanopore,metatropic,
+,24MPX3035V,DRC,Kinshasa,2024-09-10,human,Nanopore,metatropic,
+,24MPX3044V,DRC,Kinshasa,2024-09-07,human,Nanopore,metatropic,
+,24MPX3066S,DRC,Kinshasa,2024-09-12,human,Nanopore,metatropic,
+,24MPX3100V,DRC,Kinshasa,2024-09-12,human,Nanopore,metatropic,
+,24MPX3101C,DRC,Kinshasa,2024-09-13,human,Nanopore,metatropic,
+,24MPX3110V,DRC,Kinshasa,2024-09-14,human,Nanopore,metatropic,
+,24MPX3127C,DRC,Kinshasa,2024-09-15,human,Nanopore,metatropic,
+,24MPX3156V,DRC,Kinshasa,2024-09-24,human,Nanopore,ARTIC/medaka,
+,24MPX3157V,DRC,Kinshasa,2024-09-16,human,Nanopore,ARTIC/medaka,
+,24MPX3161V,DRC,Sud-Ubangi,2024-08-26,human,Nanopore,ARTIC/medaka,
+,24MPX3176V,DRC,Sud-Ubangi,2024-08-26,human,Nanopore,ARTIC/medaka,
+,24MPX3177V,DRC,Sud-Ubangi,2024-08-26,human,Nanopore,ARTIC/medaka,
+,24MPX3198C,DRC,Sud-Ubangi,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX3204V,DRC,Tshopo,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX3205C,DRC,Tshopo,2024-09-07,human,Nanopore,ARTIC/medaka,
+,24MPX3206V,DRC,Tshopo,2024-09-08,human,Nanopore,ARTIC/medaka,
+,24MPX3207V,DRC,Tshopo,2024-09-08,human,Nanopore,ARTIC/medaka,
+,24MPX3209V,DRC,Tshopo,2024-08-29,human,Nanopore,ARTIC/medaka,
+,24MPX3210V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3211V,DRC,Tshopo,2024-08-30,human,Nanopore,ARTIC/medaka,
+,24MPX3212V,DRC,Tshopo,2024-09-01,human,Nanopore,ARTIC/medaka,
+,24MPX3213V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3214V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3216V,DRC,Tshopo,2024-09-06,human,Nanopore,ARTIC/medaka,
+,24MPX3217V,DRC,Tshopo,2024-09-02,human,Nanopore,ARTIC/medaka,
+,24MPX3221C,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3222V,DRC,Tshopo,2024-08-28,human,Nanopore,ARTIC/medaka,
+,24MPX3223V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3224V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3225V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3226V,DRC,Tshopo,2024-08-31,human,Nanopore,ARTIC/medaka,
+,24MPX3230V,DRC,Tshopo,2024-08-24,human,Nanopore,ARTIC/medaka,
+,24MPX3239V,DRC,Bas-Uele,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX3243C,DRC,Kwilu,2024-08-29,human,Nanopore,ARTIC/medaka,
+,24MPX3258S,DRC,Kinshasa,2024-09-16,human,Nanopore,ARTIC/medaka,
+,24MPX3263C,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3265C,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3268V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3305V,DRC,Kinshasa,2024-09-14,human,Nanopore,ARTIC/medaka,
+,24MPX3307V,DRC,Kinshasa,2024-02-16,human,Nanopore,ARTIC/medaka,
+,24MPX3308V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3312V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3313V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3315V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3320V,DRC,Tanganyika,2024-09-16,human,Nanopore,ARTIC/medaka,
+,24MPX3322V,DRC,Tanganyika,2024-09-16,human,Nanopore,ARTIC/medaka,
+,24MPX3323S,DRC,Tanganyika,2024-09-10,human,Nanopore,ARTIC/medaka,
+,24MPX3328V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3329V,DRC,Tanganyika,2024-09-11,human,Nanopore,ARTIC/medaka,
+,24MPX3353S,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3353V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3357S,DRC,Tshopo,2024-09-01,human,Nanopore,ARTIC/medaka,
+,24MPX3360V,DRC,Tshopo,2024-09-11,human,Nanopore,ARTIC/medaka,
+,24MPX3361V,DRC,Tshopo,2024-09-10,human,Nanopore,ARTIC/medaka,
+,24MPX3362V,DRC,Tshopo,2024-09-09,human,Nanopore,ARTIC/medaka,
+,24MPX3363S,DRC,Tshopo,2024-09-07,human,Nanopore,ARTIC/medaka,
+,24MPX3370V,DRC,Tshopo,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX3371V,DRC,Tshopo,2024-09-04,human,Nanopore,ARTIC/medaka,
+,24MPX3377C,DRC,Tshopo,2024-09-03,human,Nanopore,ARTIC/medaka,
+,24MPX3378V,DRC,Tshopo,2024-09-02,human,Nanopore,ARTIC/medaka,
+,24MPX3379V,DRC,Sud-Ubangi,2024-09-06,human,Nanopore,ARTIC/medaka,
+,24MPX3392V,DRC,Sud-Ubangi,2024-09-09,human,Nanopore,ARTIC/medaka,
+,24MPX3432V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3433V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3434V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3435V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3436V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3445V,DRC,Kinshasa,2024-09-16,human,Nanopore,ARTIC/medaka,
+,24MPX3446V,DRC,Kinshasa,2024-09-19,human,Nanopore,ARTIC/medaka,
+,24MPX3448V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3449V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3450V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3451V,DRC,Kinshasa,2024-09-17,human,Nanopore,ARTIC/medaka,
+,24MPX3452V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3453V,DRC,Kinshasa,2024-09-18,human,Nanopore,ARTIC/medaka,
+,24MPX3454V,DRC,Kinshasa,2024-09-19,human,Nanopore,ARTIC/medaka,
+,24MPX3455V,DRC,Kinshasa,2024-09-19,human,Nanopore,ARTIC/medaka,
+,24MPX3465V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3466V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3497C,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3498C,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3500C,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3503C,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3510C,DRC,Kinshasa,2024-09-21,human,Nanopore,ARTIC/medaka,
+,24MPX3560V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3563V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3564V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3565V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3566V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3567V,DRC,Kinshasa,2024-09-20,human,Nanopore,ARTIC/medaka,
+,24MPX3568V,DRC,Kinshasa,2024-09-23,human,Nanopore,ARTIC/medaka,
+,24MPX3569V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3570V,DRC,Kinshasa,2024-09-22,human,Nanopore,ARTIC/medaka,
+,24MPX3571V,DRC,Kinshasa,2024-09-23,human,Nanopore,ARTIC/medaka,
+,24MPX3572V,DRC,Kinshasa,2024-09-23,human,Nanopore,ARTIC/medaka,
+,24MPX3604V,DRC,Kinshasa,2024-09-23,human,Nanopore,ARTIC/medaka,
+,24MPX3616V,DRC,Kinshasa,2024-09-24,human,Nanopore,ARTIC/medaka,
+,24MPX3618V,DRC,Kinshasa,2024-09-24,human,Nanopore,ARTIC/medaka,
+,24MPX3627V,DRC,Kinshasa,2024-09-24,human,Nanopore,ARTIC/medaka,
+,24MPX3628V,DRC,Kinshasa,2024-09-24,human,Nanopore,ARTIC/medaka,
+,24MPX3629V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPX3659V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPX3661V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPX3662V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPX3664V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPX3665V,DRC,Kinshasa,2024-09-25,human,Nanopore,ARTIC/medaka,
+,24MPXmab4C,DRC,Kwango,2024-08-29,human,Illumina,CZid,
+,24MPXV-GOM-35_S1_ilm,DRC,Nord-Kivu,2024-06-15,human,Illumina,CZid,
+,24MPXV-GOM-36_S2_ilm,DRC,Nord-Kivu,2024-06-15,human,Illumina,CZid,
+,24MPXV-GOM-38_S3_ilm,DRC,Nord-Kivu,2024-06-15,human,Illumina,CZid,
+,24MPXV-GOM-43_S4_ilm,DRC,,,human,Illumina,CZid,
+,24MPXV-GOM-45_S5_ilm,DRC,Nord-Kivu,2024-06-15,human,Illumina,CZid,
+,24MPXV-GOM-46_S6_ilm,DRC,Nord-Kivu,2024-06-15,human,Illumina,CZid,
+,24MPXV-GOM-63_S7_ilm,DRC,Nord-Kivu,2024-06-24,human,Illumina,CZid,
+,24MPXV-GOM-64_S8_ilm,DRC,Nord-Kivu,2024-06-24,human,Illumina,CZid,
+,24MPXV-GOM-65_S1_ilm,DRC,Nord-Kivu,2024-06-25,human,Illumina,CZid,
+,24MPXV-GOM-208_ont,DRC,Nord-Kivu,2024-07-27,human,Nanopore,metatropic,
+,24MPXV-GOM-209_ont,DRC,Nord-Kivu,2024-07-27,human,Nanopore,metatropic,
+,24MPXV-GOM-223_ont,DRC,Nord-Kivu,2024-07-30,human,Nanopore,metatropic,
+,24MPXV-GOM-255_ont,DRC,Nord-Kivu,2024-08-06,human,Nanopore,metatropic,
+,24MPXV-GOM-256_ont,DRC,Nord-Kivu,2024-08-06,human,Nanopore,metatropic,
+,24MPXV-GOM-273_ont,DRC,Nord-Kivu,2024-08-06,human,Nanopore,metatropic,
+,24MPXV-GOM-274_ont,DRC,Nord-Kivu,2024-08-06,human,Nanopore,metatropic,
+,24MPXV-GOM-927_ont,DRC,SUD-KIVU,2024-07-23,human,Nanopore,metatropic,
+,24MPXV-GOM-928A_ont,DRC,SUD-KIVU,2024-07-23,human,Nanopore,metatropic,
+,nkv-mpx017,DRC,Nord-Kivu,2024-06-01,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0065,DRC,Nord-Kivu,2024-06-25,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0078a,DRC,Nord-Kivu,2024-06-30,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0106a,DRC,Nord-Kivu,2024-07-03,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0110C,DRC,Nord-Kivu,2024-07-04,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0111A,DRC,Nord-Kivu,2024-07-05,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0127a,DRC,Nord-Kivu,2024-07-06,human,Nanopore,ARTIC/medaka,
+,nkv-mpx0130C,DRC,Nord-Kivu,2024-07-08,human,Nanopore,ARTIC/medaka,
+,RDC-NK-GOM-MPX-594,DRC,SUD-KIVU,2024-06-03,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-600,DRC,SUD-KIVU,2024-06-07,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-627,DRC,SUD-KIVU,2024-06-02,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-628,DRC,SUD-KIVU,2024-06-02,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-679,DRC,SUD-KIVU,2024-06-03,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-680,DRC,SUD-KIVU,2024-06-03,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-690,DRC,SUD-KIVU,2024-06-02,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-698,DRC,SUD-KIVU,2024-06-03,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-700,DRC,SUD-KIVU,2024,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-701,DRC,SUD-KIVU,2024,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-709,DRC,SUD-KIVU,2024-06-07,human,Nanopore,metatropic,
+,RDC-NK-GOM-MPX-710,DRC,SUD-KIVU,2024-06-07,human,Nanopore,metatropic,
+,RDC-NKV-GOM-MPOX-004,DRC,Sud-Kivu,2023-10-05,human,Illumina,,
+,RDC-NKV-GOM-MPOX-010,DRC,Sud-Kivu,2023-10-13,human,Illumina,,
+,skv-mpx-713,DRC,SUD-KIVU,2024-06-05,human,Nanopore,ARTIC/medaka,
+,skv-mpx-715,DRC,SUD-KIVU,2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx-716,DRC,SUD-KIVU,2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0255S,DRC,SUD-KIVU,2024-04-01,human,Illumina,CZid,
+,skv-mpx0259C,DRC,SUD-KIVU,2024-04-13,human,Illumina,CZid,
+,skv-mpx0262C,DRC,SUD-KIVU,2024-04-13,human,Illumina,CZid,
+,skv-mpx0270S,DRC,SUD-KIVU,2024-04-14,human,Illumina,CZid,
+,skv-mpx0286C,DRC,SUD-KIVU,2024-04-09,human,Illumina,CZid,
+,skv-mpx0289S,DRC,SUD-KIVU,2024-04-09,human,Illumina,CZid,
+,skv-mpx0290C,DRC,SUD-KIVU,2024-04-12,human,Illumina,CZid,
+,skv-mpx0296C,DRC,SUD-KIVU,2024-04-20,human,Illumina,CZid,
+,skv-mpx0301C,DRC,SUD-KIVU,2024-04-15,human,Illumina,CZid,
+,skv-mpx0305Or,DRC,SUD-KIVU,2024-04-16,human,Illumina,CZid,
+,skv-mpx0312P,DRC,SUD-KIVU,2024-04-16,human,Illumina,CZid,
+,skv-mpx0313,DRC,SUD-KIVU,2024-04-16,human,Illumina,CZid,
+,skv-mpx0344,DRC,SUD-KIVU,Apr-2024,human,Illumina,CZid,
+,skv-mpx0372,DRC,SUD-KIVU,2024-04-27,human,Illumina,CZid,
+,skv-mpx0381,DRC,SUD-KIVU,May-2024,human,Illumina,CZid,
+,skv-mpx0429C,DRC,SUD-KIVU,2024-05-06,human,Nanopore,ARTIC/medaka,
+,skv-mpx0432C,DRC,SUD-KIVU,2024-05-07,human,Nanopore,ARTIC/medaka,
+,skv-mpx0441C,DRC,SUD-KIVU,2024-05-08,human,Nanopore,ARTIC/medaka,
+,skv-mpx0442Or,DRC,SUD-KIVU,2024-05-08,human,Nanopore,ARTIC/medaka,
+,skv-mpx0475Or,DRC,SUD-KIVU,2024-05-11,human,Nanopore,ARTIC/medaka,
+,skv-mpx0494,DRC,SUD-KIVU,May-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0497,DRC,SUD-KIVU,2024-05-15,human,Nanopore,ARTIC/medaka,
+,skv-mpx0498,DRC,SUD-KIVU,2024-05-15,human,Nanopore,ARTIC/medaka,
+,skv-mpx0499,DRC,SUD-KIVU,2024-05-20,human,Nanopore,ARTIC/medaka,
+,skv-mpx0501,DRC,SUD-KIVU,2024-05-20,human,Nanopore,ARTIC/medaka,
+,skv-mpx0502,DRC,SUD-KIVU,2024-05-20,human,Nanopore,ARTIC/medaka,
+,skv-mpx0508,DRC,SUD-KIVU,2024-05-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0511S,DRC,SUD-KIVU,2024-05-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0512C,DRC,SUD-KIVU,May-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0534C,DRC,SUD-KIVU,2024-05-18,human,Nanopore,ARTIC/medaka,
+,skv-mpx0537,DRC,SUD-KIVU,2024-05-23,human,Nanopore,ARTIC/medaka,
+,skv-mpx0541,DRC,SUD-KIVU,2024-05-20,human,Nanopore,ARTIC/medaka,
+,skv-mpx0564C,DRC,SUD-KIVU,2024-04-21,human,Nanopore,ARTIC/medaka,
+,skv-mpx0591Ab,DRC,SUD-KIVU,2024-05-02,human,Nanopore,ARTIC/medaka,
+,skv-mpx0593,DRC,SUD-KIVU,Jun-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0599,DRC,SUD-KIVU,2024-06-07,human,Nanopore,ARTIC/medaka,
+,skv-mpx0684,DRC,SUD-KIVU,2024-05-30,human,Nanopore,ARTIC/medaka,
+,skv-mpx0685,DRC,SUD-KIVU,Jun-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0688,DRC,SUD-KIVU,2024-05-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0691,DRC,SUD-KIVU,Jun-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0692,DRC,SUD-KIVU,2024-06-03,human,Nanopore,ARTIC/medaka,
+,skv-mpx0697,DRC,SUD-KIVU,2024-06-03,human,Nanopore,ARTIC/medaka,
+,skv-mpx0703,DRC,SUD-KIVU,Jun-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0704,DRC,SUD-KIVU,Jun-2024,human,Nanopore,ARTIC/medaka,
+,skv-mpx0707,DRC,SUD-KIVU,2024-06-05,human,Nanopore,ARTIC/medaka,
+,skv-mpx0758Or,DRC,SUD-KIVU,2024-07-06,human,Nanopore,ARTIC/medaka,
+,skv-mpx0759Or,DRC,SUD-KIVU,2024-06-06,human,Nanopore,ARTIC/medaka,
+,skv-mpx0780Or,DRC,SUD-KIVU,2024-06-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0792C,DRC,SUD-KIVU,2024-06-12,human,Nanopore,ARTIC/medaka,
+,skv-mpx0794C,DRC,SUD-KIVU,2024-06-09,human,Nanopore,ARTIC/medaka,
+,skv-mpx0796C,DRC,SUD-KIVU,2024-06-13,human,Nanopore,ARTIC/medaka,
+,skv-mpx0802C,DRC,SUD-KIVU,2024-06-07,human,Nanopore,ARTIC/medaka,
+,skv-mpx0804C,DRC,SUD-KIVU,2024-06-10,human,Nanopore,ARTIC/medaka,
+,skv-mpx0811C,DRC,SUD-KIVU,2024-06-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0813C,DRC,SUD-KIVU,2024-06-14,human,Nanopore,ARTIC/medaka,
+,skv-mpx0869C,DRC,SUD-KIVU,2024-06-11,human,Nanopore,ARTIC/medaka,
+,skv-mpx880C,DRC,SUD-KIVU,2024-06-04,human,Nanopore,ARTIC/medaka,
+,skv-mpx919,DRC,SUD-KIVU,2024-06-08,human,Nanopore,ARTIC/medaka,
+,skv-mpx922,DRC,SUD-KIVU,2024-06-05,human,Nanopore,ARTIC/medaka,
+,skv-mpx924,DRC,SUD-KIVU,2024-06-01,human,Nanopore,ARTIC/medaka,
+PQ221485,18MPX0083S,DRC,Haut-Uele,2018-01-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221486,18MPX0115C,DRC,Tshopo,2018-02-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221487,18MPX0116C,DRC,Tshopo,2018-02-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221488,18MPX0135C,DRC,Sankuru,2018-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221489,18MPX0145C,DRC,Sankuru,2018-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221490,18MPX0170C,DRC,Bas-Uele,2018-02-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221491,18MPX0172C,DRC,Bas-Uele,2018-03-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221492,18MPX0173C,DRC,Bas-Uele,2018-03-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221493,18MPX0174C,DRC,Bas-Uele,2018-04-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221494,18MPX0175C,DRC,Bas-Uele,2018-02-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221495,20MPX0003S,DRC,Mai-Ndombe,2020-01-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221496,21MPX0197C,DRC,Haut-Uele,2021-06-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221497,21MPX0198C,DRC,Haut-Uele,2021-06-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221498,22hMPX-RDC-035C,DRC,Maniema,2022-08-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221499,22hMPX-RDC-035V,DRC,Maniema,2022-08-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221500,22hMPX-RDC-036,DRC,Maniema,2022-08-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221501,22hMPX-RDC-037Or,DRC,Maniema,2022-08-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221502,22hMPX-RDC-037V,DRC,Maniema,2022-08-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221503,22hMPX-RDC-040Or,DRC,Maniema,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221504,22hMPX-RDC-040V,DRC,Maniema,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221505,22MPX0035V,DRC,Maniema,2022-02-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221506,22MPX0036V,DRC,Maniema,2022-02-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221507,22MPX0049C,DRC,Equateur,2022-03-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221508,22MPX0050C,DRC,Equateur,2022-03-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221509,22MPX0113C,DRC,Kwilu,2022-05-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221510,22MPX0127C,DRC,Maniema,2022-05-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221511,22MPX0129C,DRC,Kwilu,2022-05-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221512,22MPX0139V,DRC,Haut-Uele,2022-06-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221513,22MPX0156C,DRC,Tshopo,2022-06-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221514,22MPX0156V,DRC,Tshopo,2022-06-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221515,22MPX0158V,DRC,Kwilu,2022-06-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221516,22MPX0159V,DRC,Kwilu,2022-06-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221517,22MPX0172V,DRC,Tshopo,2022-06-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221518,22MPX0173V,DRC,Tshopo,2022-06-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221519,22MPX0174V,DRC,Equateur,2022-06-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221520,22MPX0191V,DRC,Maniema,2022-06-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221521,22MPX0193C,DRC,Maniema,2022-06-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221522,22MPX0193V,DRC,Maniema,2022-06-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221523,22MPX0222C,DRC,Kasai,2022-07-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221524,22MPX0223C,DRC,Kasai,2022-07-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221525,22MPX0280C,DRC,Tshopo,2022-07-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221526,22MPX0288C,DRC,Tshopo,2022-08-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221527,22MPX0290C,DRC,Tshopo,2022-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221528,22MPX0291C,DRC,Tshopo,2022-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221529,22MPX0292C,DRC,Tshopo,2022-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221530,22MPX0296C,DRC,Tshopo,2022-07-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221531,22MPX0314V,DRC,Equateur,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221532,22MPX0317V,DRC,Maniema,2022-08-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221533,22MPX0338C,DRC,Kwango,2022-08-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221534,22MPX0402V,DRC,Tshopo,2022-09-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221535,22MPX0405V,DRC,Tshopo,2022-08-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221536,22MPX0406V,DRC,Tshopo,2022-08-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221537,22MPX0407C,DRC,Tshopo,2022-08-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221538,22MPX0408C,DRC,Tshopo,2022-09-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221539,22MPX0409V,DRC,Tshopo,2022-08-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221540,22MPX0410V,DRC,Tshopo,2022-09-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221541,22MPX0412C,DRC,Tshopo,2022-09-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221542,22MPX0420C,DRC,Equateur,2022-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221543,22MPX0421C,DRC,Equateur,2022-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221544,22MPX0422C,DRC,Equateur,2022-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221545,22MPX0423C,DRC,Equateur,2022-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221546,22MPX0424C,DRC,Equateur,2022-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221547,22MPX0452V,DRC,Tshopo,2022-09-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221548,22MPX0486C,DRC,Haut-Uele,2022-09-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221549,22MPX0502s,DRC,Kwilu,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221550,22MPX0503C,DRC,Equateur,2022-09-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221551,22MPX0504C,DRC,Equateur,2022-09-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221552,22MPX0505C,DRC,Equateur,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221553,22MPX0506C,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221554,22MPX0506V,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221555,22MPX0507V,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221556,22MPX0508C,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221557,22MPX0508V,DRC,Equateur,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221558,22MPX0509C,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221559,22MPX0510V,DRC,Equateur,2022-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221560,22MPX0511C,DRC,Tshopo,2022-10-17,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221561,22MPX0512V,DRC,Tshopo,2022-09-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221562,22MPX0513C,DRC,Tshopo,2022-09-19,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221563,22MPX0515C,DRC,Tshopo,2022-10-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221564,22MPX0515V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221565,22MPX0548V,DRC,Tshopo,2022-10-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221566,22MPX0549V,DRC,Tshopo,2022-10-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221567,22MPX0610C,DRC,Tshopo,2022-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221568,22MPX0610V,DRC,Tshopo,2022-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221569,22MPX0611V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221570,22MPX0612V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221571,22MPX0613V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221572,22MPX0614V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221573,22MPX0615V,DRC,Tshopo,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221574,22MPX0636V,DRC,Kasai,2022,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221575,23MPX0002S,DRC,Maniema,2022-10-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221576,23MPX0011C,DRC,Sankuru,2022-11-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221577,23MPX0014V,DRC,Sankuru,2022-11-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221578,23MPX0015V,DRC,Sankuru,2022-11-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221579,23MPX0018C,DRC,Sankuru,2022-10-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221580,23MPX0019C,DRC,Sankuru,2022-10-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221581,23MPX0022V,DRC,Sankuru,2022-07-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221582,23MPX0028V,DRC,Tshopo,2022-12-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221583,23MPX0030V,DRC,Tshopo,2022-12-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221584,23MPX0033C,DRC,Tshopo,2022-12-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221585,23MPX0034C,DRC,Tshopo,2022-12-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221586,23MPX0035C,DRC,Tshopo,2022-12-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221587,23MPX0036C,DRC,Tshopo,2022-11-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221588,23MPX0037C,DRC,Tshopo,2022-11-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221589,23MPX0038C,DRC,Tshopo,2022-11-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221590,23MPX0039C,DRC,Tshopo,2022-12-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221591,23MPX0040C,DRC,Tshopo,2022-12-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221592,23MPX0043C,DRC,Tshopo,2023-01-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221593,23MPX0044C,DRC,Tshopo,2022-12-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221594,23MPX0045V,DRC,Tshopo,2022-12-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221595,23MPX0046C,DRC,Tshopo,2022-12-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221596,23MPX0047C,DRC,Tshopo,2023-01-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221597,23MPX0048C,DRC,Tshopo,2023-01-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221598,23MPX0049C,DRC,Tshopo,2023-01-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221599,23MPX0057C,DRC,Tshopo,2023-01-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221600,23MPX0059C,DRC,Tshopo,2023-01-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221601,23MPX0060C,DRC,Tshopo,2023-01-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221602,23MPX0061C,DRC,Tshopo,2023-01-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221603,23MPX0062C,DRC,Tshopo,2023-01-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221604,23MPX0063S,DRC,Kasai,2022-12-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221605,23MPX0064C,DRC,Kasai,2023-01-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221606,23MPX0069C,DRC,Kasai,2023-01-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221607,23MPX0070V,DRC,Tshopo,2023-01-10,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221608,23MPX0072C,DRC,Tshopo,2023-01-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221609,23MPX0073C,DRC,Tshopo,2023-11-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221610,23MPX0074C,DRC,Tshopo,2022-11-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221611,23MPX0075V,DRC,Tshopo,2022-12-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221612,23MPX0076V,DRC,Tshopo,2022-12-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221613,23MPX0077C,DRC,Tshopo,2022-12-10,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221614,23MPX0078C,DRC,Tshopo,2022-12-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221615,23MPX0079V,DRC,Tshopo,2022-12-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221616,23MPX0081C,DRC,Tshopo,2022-12-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221617,23MPX0082V,DRC,Tshopo,2022-12-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221618,23MPX0084C,DRC,Tshopo,2022-12-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221619,23MPX0085C,DRC,Tshopo,2023-01-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221620,23MPX0087C,DRC,Tshopo,2022-12-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221621,23MPX0088C,DRC,Tshopo,2023-01-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221622,23MPX0125V,DRC,Tshopo,2023-02-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221623,23MPX0126V,DRC,Tshopo,2023-01-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221624,23MPX0130C,DRC,Tshopo,2023-01-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221625,23MPX0134C,DRC,Sud-Ubangi,2023-01-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221626,23MPX0135V,DRC,Sud-Ubangi,2023-01-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221627,23MPX0136V,DRC,Sud-Ubangi,2023-01-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221628,23MPX0140C,DRC,Sankuru,2022-12-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221629,23MPX0147V,DRC,Tshopo,2023-02-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221630,23MPX0148V,DRC,Tshopo,2023-02-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221631,23MPX0184C,DRC,Tshopo,2023-02-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221632,23MPX0185V,DRC,Tshopo,2023-01-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221633,23MPX0186V,DRC,Tshopo,2023-02-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221634,23MPX0187C,DRC,Tshopo,2023-02-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221635,23MPX0196V,DRC,Tshopo,2023-02-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221636,23MPX0197V,DRC,Tshopo,2023-02-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221637,23MPX0198V,DRC,Tshopo,2023-02-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221638,23MPX0199V,DRC,Tshopo,2023-02-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221639,23MPX0214C,DRC,Tshopo,2023-02-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221640,23MPX0215V,DRC,Tshopo,2023-02-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221641,23MPX0216V,DRC,Tshopo,2023-02-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221642,23MPX0225V,DRC,Equateur,2023-03-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221643,23MPX0228V,DRC,Mai-Ndombe,2023-02-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221644,23MPX0245C,DRC,Kwango,2023-03-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221645,23MPX0245V,DRC,Kwango,2023-03-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221646,23MPX0269C,DRC,Mai-Ndombe,2023-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221647,23MPX0273C,DRC,Equateur,2023-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221648,23MPX0274S,DRC,Equateur,2023-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221649,23MPX0278C,DRC,Equateur,2023-03-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221650,23MPX0279S,DRC,Equateur,2023-03-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221651,23MPX0288C,DRC,Equateur,2023-03-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221652,23MPX0291V,DRC,Equateur,2023-03-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221653,23MPX0334C,DRC,Equateur,2023-03-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221654,23MPX0338V,DRC,Mongala,2023-03-10,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221655,23MPX0340C,DRC,Mai-Ndombe,2023-03-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221656,23MPX0341C,DRC,Mai-Ndombe,2023-03-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221657,23MPX0354V,DRC,Tshopo,2023-03-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221658,23MPX0355V,DRC,Tshopo,2023-02-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221659,23MPX0356V,DRC,Tshopo,2023-02-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221660,23MPX0357V,DRC,Tshopo,2023-03-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221661,23MPX0359V,DRC,Tshopo,2023-03-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221662,23MPX0361V,DRC,Tshopo,2023-03-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221663,23MPX0362V,DRC,Tshopo,2023-03-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221664,23MPX0365V,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221665,23MPX0366C,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221666,23MPX0367C,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221667,23MPX0368V,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221668,23MPX0369V,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221669,23MPX0370C,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221670,23MPX0372V,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221671,23MPX0373V,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221672,23MPX0374C,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221673,23MPX0375C,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221674,23MPX0376V,DRC,Mongala,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221675,23MPX0377V,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221676,23MPX0378V,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221677,23MPX0379V,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221678,23MPX0380C,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221679,23MPX0381C,DRC,Tshopo,2023-04-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221680,23MPX0383V,DRC,Kwango,2023-04-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221681,23MPX0451C,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221682,23MPX0452V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221683,23MPX0453V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221684,23MPX0454V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221685,23MPX0455V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221686,23MPX0457V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221687,23MPX0459V,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221688,23MPX0460C,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221689,23MPX0461C,DRC,Sankuru,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221690,23MPX0462V,DRC,Tshopo,2023-04-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221691,23MPX0463C,DRC,Tshopo,2023-04-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221692,23MPX0464C,DRC,Tshopo,2023-04-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221693,23MPX0465C,DRC,Tshopo,2023-04-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221694,23MPX0466C,DRC,Tshopo,2023-04-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221695,23MPX0467C,DRC,Tshopo,2023-04-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221696,23MPX0468C,DRC,Haut-Uele,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221697,23MPX0469C,DRC,Haut-Uele,2023-03-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221698,23MPX0471C,DRC,Mai-Ndombe,2023-04-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221699,23MPX0473C,DRC,Mai-Ndombe,2023-04-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221700,23MPX0475C,DRC,Mai-Ndombe,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221701,23MPX0476V,DRC,Mai-Ndombe,2023-04-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221702,23MPX0485V,DRC,Equateur,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221703,23MPX0486V,DRC,Equateur,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221704,23MPX0487V,DRC,Equateur,2023-04-24,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221705,23MPX0489V,DRC,Equateur,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221706,23MPX0490V,DRC,Equateur,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221707,23MPX0491C,DRC,Equateur,2023-04-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221708,23MPX0492V,DRC,Equateur,2023-04-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221709,23MPX0493V,DRC,Equateur,2023-04-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221710,23MPX0494V,DRC,Equateur,2023-04-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221711,23MPX0495C,DRC,Equateur,2023-05-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221712,23MPX0508V,DRC,Tshopo,2023-04-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221713,23MPX0509V,DRC,Tshopo,2023-04-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221714,23MPX0510V,DRC,Tshopo,2023-04-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221715,23MPX0642V,DRC,Mongala,2023-06-13,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221716,23MPX0644V,DRC,Tshopo,2023-06-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221717,23MPX0645V,DRC,Tshopo,2023-06-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221718,23MPX0646V,DRC,Tshopo,2023-06-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221719,23MPX0647V,DRC,Tshopo,2023-06-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221720,23MPX0648V,DRC,Tshopo,2023-06-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221721,23MPX0649V,DRC,Tshopo,2023-06-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221722,23MPX0723V,DRC,Mai-Ndombe,2023-06-17,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221723,23MPX0727V,DRC,Mai-Ndombe,2023-06-17,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221724,23MPX0732V,DRC,Mai-Ndombe,2023-06-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221725,23MPX0738V,DRC,Mai-Ndombe,2023-06-17,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221726,23MPX0751V,DRC,Sud-Ubangi,2023-06-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221727,23MPX0752V,DRC,Sud-Ubangi,2023-06-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221728,23MPX0755V,DRC,Sud-Ubangi,2023-06-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221729,23MPX0756V,DRC,Sud-Ubangi,2023-06-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221730,23MPX0757V,DRC,Sud-Ubangi,2023-06-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221731,23MPX0758V,DRC,Sud-Ubangi,2023-06-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221732,23MPX0759V,DRC,Sud-Ubangi,2023-06-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221733,23MPX0769V,DRC,Sankuru,2023-06-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221734,23MPX0770V,DRC,Sankuru,2023-06-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221735,23MPX0877V,DRC,Equateur,2023-05-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221736,23MPX0878V,DRC,Equateur,2023-05-10,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221737,23MPX0896S,DRC,Sud-Ubangi,2023-07-14,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221738,23MPX1037V,DRC,Equateur,2023-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221739,23MPX1040V,DRC,Equateur,2023-07-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221740,23MPX1053V,DRC,Tshopo,2023-07-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221741,23MPX1063V,DRC,Equateur,2023-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221742,23MPX1064V,DRC,Equateur,2023-07-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221743,23MPX1071V,DRC,Equateur,2023-07-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221744,23MPX1072C,DRC,Equateur,2023-07-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221745,23MPX1073V,DRC,Equateur,2023-08-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221746,23MPX1077C,DRC,Equateur,2023-08-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221747,23MPX1085C,DRC,Tshopo,2023-07-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221748,23MPX1093V,DRC,Equateur,2023-07-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221749,23MPX1107C,DRC,Tshopo,2023-07-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221750,23MPX1108C,DRC,Tshopo,2023-07-15,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221751,23MPX1109C,DRC,Tshopo,2023-07-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221752,23MPX1115C,DRC,Tshopo,2023-07-30,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221753,23MPX1137V,DRC,Sud-Ubangi,2023-08-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221754,23MPX1143C,DRC,Kinshasa,2023-08-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221755,23MPX1143V,DRC,Kinshasa,2023-08-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221756,23MPX1157C,DRC,Tshopo,2023-07-17,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221757,23MPX1185V,DRC,Tshopo,2023-07-16,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221758,23MPX1190C,DRC,Equateur,2023-08-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221759,23MPX1194C,DRC,Equateur,2023-08-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221760,23MPX1199V,DRC,Sud-Ubangi,2023-08-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221761,23MPX1229V,DRC,Mai-Ndombe,2023-08-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221762,23MPX1273C,DRC,Tshopo,2023-08-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221763,23MPX1275C,DRC,Tshopo,2023-09-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221764,23MPX1289V,DRC,Kinshasa,2023-09-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221765,23MPX1300V,DRC,Tshopo,2023-08-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221766,23MPX1302C,DRC,Tshopo,2023-09-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221767,23MPX1303C,DRC,Tshopo,2023-09-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221768,23MPX1393C,DRC,Tshopo,2023-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221769,23MPX1396V,DRC,Tshopo,2023-09-09,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221770,23MPX1398V,DRC,Tshopo,2023-09-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221771,23MPX1442C,DRC,Sud-Ubangi,2023-09-10,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221772,23MPX1443V,DRC,Sud-Ubangi,2023-09-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221773,23MPX1446C,DRC,Sud-Ubangi,2023-08-14,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221774,23MPX1447C,DRC,Sud-Ubangi,2023-09-12,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221775,23MPX1448C,DRC,Sud-Ubangi,2023-08-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221776,23MPX1449V,DRC,Sud-Ubangi,2023-08-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221777,23MPX1452V,DRC,Kwilu,2023-09-19,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221778,23MPX1454C,DRC,Mai-Ndombe,2023-08-29,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221779,23MPX1455C,DRC,Mai-Ndombe,2023-08-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221780,23MPX1457V,DRC,Mai-Ndombe,2023-08-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221781,23MPX1458V,DRC,Mai-Ndombe,2023-09-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221782,23MPX1460C,DRC,Mai-Ndombe,2023-08-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221783,23MPX1462C,DRC,Tshopo,2023-09-23,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221784,23MPX1463V,DRC,Tshopo,2023-09-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221785,23MPX1464V,DRC,Tshopo,2023-09-28,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221786,23MPX1470V,DRC,Equateur,2023-10-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221787,23MPX1471V,DRC,Equateur,2023-10-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221788,23MPX1478C,DRC,Kinshasa,2023-10-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221789,23MPX1484V,DRC,Sankuru,2023-10-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221790,23MPX1493S,DRC,Equateur,2023-10-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221791,23MPX1495S,DRC,Equateur,2023-10-03,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221792,23MPX1506V,DRC,Tshopo,2023-10-05,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221793,23MPX1511C,DRC,Kwango,2023-10-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221794,23MPX1512S,DRC,Kwango,2023-10-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221795,23MPX1529V,DRC,Equateur,2023-10-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221796,23MPX1530V,DRC,Equateur,2023-10-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221797,23MPX1535C,DRC,Sud-Ubangi,2023-09-11,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221798,23MPX1536V,DRC,Sud-Ubangi,2023-09-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221799,23MPX1538C,DRC,Sud-Ubangi,2023-10-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221800,23MPX1539V,DRC,Sud-Ubangi,2023-10-02,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221801,23MPX1540V,DRC,Sud-Ubangi,2023-10-07,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221802,23MPX1541V,DRC,Sud-Ubangi,2023-10-08,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221803,23MPX1554V,DRC,Kinshasa,2023-10-25,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221804,23MPX1555V,DRC,Kinshasa,2023-10-26,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221805,23MPX1626C,DRC,Sud-Ubangi,2023-08-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221806,23MPX1627C,DRC,Sud-Ubangi,2023-08-06,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221807,23MPX1636C,DRC,Tshopo,2023-10-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221808,23MPX1643C,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221809,23MPX1644C,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221810,23MPX1645V,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221811,23MPX1646V,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221812,23MPX1648V,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221813,23MPX1658V,DRC,Mai-Ndombe,2023-10-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221814,23MPX1660V,DRC,Mai-Ndombe,2023-11-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221815,23MPX1661V,DRC,Mai-Ndombe,2023-11-04,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221816,23MPX1663V,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221817,23MPX1664V,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221818,23MPX1665V,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221819,23MPX1666C,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221820,23MPX1667C,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221821,23MPX1668C,DRC,Mai-Ndombe,2023-10-31,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221822,23MPX1669C,DRC,Mai-Ndombe,2023-10-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221823,23MPX1670V,DRC,Mai-Ndombe,2023-10-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221824,23MPX1671C,DRC,Mai-Ndombe,2023-10-18,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221825,23MPX1672C,DRC,Mai-Ndombe,2023-10-20,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221826,23MPX1673V,DRC,Mai-Ndombe,2023-10-22,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221827,23MPX1674C,DRC,Tshopo,2023-10-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221828,23MPX1675S,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221829,23MPX1676C,DRC,Tshopo,2023-10-27,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221830,23MPX1677C,DRC,Tshopo,2023-10-21,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221831,23MPX1686V,DRC,Mongala,2023-11-01,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221832,23MPX1709C,DRC,Kwango,2023-11-14,human,Illumina,,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221834,24MPX0204V,DRC,Sud-Kivu,2024-01-04,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221835,24MPX0212Or,DRC,Sud-Kivu,2024-01-07,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221836,24MPX0303C,DRC,Mai-Ndombe,2023-01-19,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221837,24MPX0305V,DRC,Mai-Ndombe,2023-09-13,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221838,24MPX0323C,DRC,Sud-Ubangi,2024-01-27,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221839,24MPX0429V,DRC,Mai-Ndombe,2023-12-30,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221840,24MPX0443V,DRC,Equateur,2024-01-16,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221844,24MPX0513V,DRC,Sud-Ubangi,2024-02-10,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221845,24MPX0514V,DRC,Sud-Ubangi,2024-02-07,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221846,24MPX0535C,DRC,Sud-Ubangi,2024-02-02,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221848,24MPX0571V,DRC,Tshopo,2024-02-04,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221849,24MPX0572C,DRC,Tshopo,2024-01-22,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221850,24MPX0574C,DRC,Tshopo,2024-01-22,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221851,24MPX0575V,DRC,Tshopo,2024-02-08,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221852,24MPX0576V,DRC,Tshopo,2024-02-06,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221853,24MPX0577V,DRC,Tshopo,2024-02-07,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221854,24MPX0578V,DRC,Tshopo,,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221855,24MPX0579C,DRC,Tshopo,2024-02-08,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221856,24MPX0580C,DRC,Tshopo,2024-02-09,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221857,24MPX0581V,DRC,Tshopo,2024-01-26,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221858,24MPX0582V,DRC,Tshopo,2024-02-03,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221859,24MPX0588V,DRC,Equateur,2024-02-15,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221860,24MPX0589V,DRC,Equateur,2024-02-23,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221861,24MPX0590C,DRC,Equateur,2024-02-09,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221862,24MPX0591C,DRC,Equateur,2024-02-16,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221863,24MPX0592C,DRC,Equateur,2024-01-31,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221864,24MPX0593C,DRC,Sud-Ubangi,2024-02-18,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221865,24MPX0594V,DRC,Sud-Ubangi,2024-02-04,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221866,24MPX0595V,DRC,Sud-Ubangi,2024-02-18,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221867,24MPX0611V,DRC,Sud-Ubangi,2024-02-16,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221868,24MPX0748V,DRC,Tshopo,2024-03-06,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221869,24MPX0755S,DRC,Equateur,2024-03-08,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221870,24MPX0756V,DRC,Equateur,2024-03-10,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221871,24MPX0757V,DRC,Equateur,2024-02-29,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221872,24MPX0758V,DRC,Equateur,2024-02-17,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221873,24MPX0760V,DRC,Equateur,,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221874,24MPX0761V,DRC,Equateur,,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221875,24MPX0762V,DRC,Equateur,,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221876,24MPX0763V,DRC,Equateur,2024-03-06,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221877,24MPX0764V,DRC,Equateur,,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221878,24MPX0765V,DRC,Equateur,2024-03-10,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221879,24MPX0767V,DRC,Equateur,2024-03-09,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221880,24MPX0813V,DRC,Equateur,2024-03-28,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221881,24MPX0814C,DRC,Equateur,2024-03-19,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221882,24MPX0817V,DRC,Mongala,2024-01-18,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ221883,24MPX0823V,DRC,Sud-Ubangi,2024-03-20,human,Illumina,CZid,"Kinganda-Lusamaki et al. (2024) Cell, in press."
+PQ352020,24MPX1978V,DRC,Kinshasa,2024-07-05,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301745"
+PQ352022,24MPX1521S,DRC,Kinshasa,2024-07-01,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301746"
+PQ352024,24MPX2092C,DRC,Kinshasa,2024-08-15,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301747"
+PQ352025,24MPX2091C,DRC,Kinshasa,2024-08-15,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301748"
+PQ352026,24MPX2057V,DRC,Kinshasa,2024-08-12,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301749"
+PQ352027,24MPX2056V,DRC,Kinshasa,2024-08-15,human,Nanopore,metatropic,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301750"
+PQ352028,24MPX2024C,DRC,Kinshasa,2024-08-12,human,Illumina,CZid,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301751"
+PQ352029,24MPX2026C,DRC,Kinshasa,2024-08-12,human,Illumina,CZid,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301752"
+PQ352030,24MPX2027V,DRC,Kinshasa,2024-08-12,human,Illumina,CZid,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301753"
+PQ352031,24MPX2019V,DRC,Kinshasa,2024-08-09,human,Illumina,CZid,"Wawina-Bokalanga et al. (2024) Eurosurveillance, 29, PMID:39301754"
+PP601182,23MPX1740C,DRC,Sud-Ubangi,2023-11-09,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601183,23MPX1766C,DRC,Sud-Ubangi,2023-11-21,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601184,23MPX1769C,DRC,Sud-Ubangi,2023-11-25,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601185,23MPX1786C,DRC,Sud-Ubangi,2023-12-18,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601186,23MPX1793V,DRC,Sud-Ubangi,2023-12-16,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601187,23MPX1806V,DRC,Kinshasa,2023-12-22,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601188,24MPX0008V,DRC,Sud-Ubangi,2023-12-16,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601189,24MPX0009C,DRC,Sud-Ubangi,2023-12-18,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601190,24MPX0012C,DRC,Sud-Ubangi,2023-12-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601191,24MPX0014C,DRC,Sud-Ubangi,2023-12-24,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601192,24MPX0018V,DRC,Tshopo,2024-01-02,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601193,24MPX0024C,DRC,Tshopo,2023-12-27,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601194,24MPX0025V,DRC,Tshopo,2023-12-30,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601195,24MPX0026V,DRC,Tshopo,2023-12-30,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601196,24MPX0037V,DRC,Sud-Ubangi,2024-01-05,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601197,24MPX0038V,DRC,Sud-Ubangi,2024-01-07,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601198,24MPX0041V,DRC,Sud-Ubangi,2024-01-08,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601199,24MPX0164V,DRC,Tshopo,2024-01-13,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601200,24MPX0166C,DRC,Tshopo,2024-01-13,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601201,24MPX0168V,DRC,Tshopo,2024-01-08,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601202,24MPX0169C,DRC,Tshopo,2024-01-08,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601203,24MPX0174C,DRC,Tshopo,2024-01-08,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601204,24MPX0175V,DRC,Tshopo,2024-01-08,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601205,24MPX0188V,DRC,Equateur,2024-01-20,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601206,24MPX0194V,DRC,Equateur,2024-01-20,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601207,24MPX0198V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601208,24MPX0201V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601209,24MPX0203V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601210,24MPX0205V,DRC,Sud-Kivu,2024-01-28,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601211,24MPX0206V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601212,24MPX0207Or,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601213,24MPX0209V,DRC,Sud-Kivu,2024-01-19,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601214,24MPX0214V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601215,24MPX0217V,DRC,Sud-Kivu,2024-01-23,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601216,24MPX0220V,DRC,Sud-Kivu,2024-01-26,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601217,24MPX0221V,DRC,Sud-Kivu,2024-01-26,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601218,24MPX0223C,DRC,Sud-Kivu,2023-12-26,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601219,24MPX0224C,DRC,Sud-Kivu,2023-12-25,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601220,24MPX0226V,DRC,Sud-Kivu,2023-12-26,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601221,24MPX0228V,DRC,Sud-Kivu,2023-12-27,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601222,24MPX0230C,DRC,Sud-Kivu,2023-12-31,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601223,24MPX0231V,DRC,Sud-Kivu,2023-12-21,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601224,24MPX0239V,DRC,Sud-Kivu,2024-01-10,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601225,24MPX0240V,DRC,Sud-Kivu,2024-01-14,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601226,24MPX0242V,DRC,Sud-Kivu,2024-01-15,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601227,RDC-NKV-GOM-MPOX-004,DRC,Sud-Kivu,2023-10-05,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
+PP601228,RDC-NKV-GOM-MPOX-010,DRC,Sud-Kivu,2023-10-13,human,,,"Vakaniaki et al. (2024) Nature Medicine, in press, PMID:38871006"
