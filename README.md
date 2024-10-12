@@ -56,6 +56,7 @@ These data were produced by the following teams working as part of the DRC's mpo
     Africa-CDC/ASLM through Pathogen Genomic Initiative (PGI);
     AFROSCREEN consortium;
     ARCTIC Network (University of Birmingham, University of Edinburg);
+    Bill and Melinda Gates Foundation
     Biosurv international;
     Institute of Tropical Medicine (ITM);
     TransVIHMI :Université de Montpellier, Institut de Recherche pour le Développement (IRD), Institut National de la Santé et de la Recherche Médicale (INSERM) ; 
