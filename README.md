@@ -56,11 +56,9 @@ These data were produced by the following teams working as part of the DRC's mpo
     Africa-CDC/ASLM through Pathogen Genomic Initiative (PGI)
     AFROSCREEN consortium
     ARCTIC Network
-   
        University of Birmingham; Birmingham; UK
        University of Edinburg; Edinburg; UK
-
-   Biosurv international, UK
+    Biosurv international, UK
     Institute of Tropical Medicine (ITM); Antwerp; Belgium
     TransVIHMI :Université de Montpellier, Institut de Recherche pour le Développement (IRD), Institut National de la Santé et de la Recherche Médicale (INSERM) ; Montpellier ; France,
     University of California Los-Angeles (UCLA);Los-Angeles;USA
