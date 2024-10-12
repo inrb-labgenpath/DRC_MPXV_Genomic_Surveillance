@@ -43,6 +43,29 @@ We are making these genomes available to assist public health response to the mp
 ## Acknowledgments
 These data were produced by the following teams working as part of the DRC's mpox surveillance programme and response:
 
+1. Institut National de Recherche Biomédicale (INRB) in DRC through :
+    Mpox National Reference Laboratory, Virology Department, INRB, Kinshasa
+    Pathogen Genomics Laboratory, Epidemiology and Global Health Department, INRB, Kinshasa
+    Rodolphe Merieux INRB Goma Laboratory, Goma
+2. Service de microbiologie, Cliniques Universitaires de Kinshasa (CUK), University of Kinshasa (UNIKIN) 
+3. Other DRC Ministry of Public Health, Hygiene and Prevention
+    DSE, PNLFHMPX and INSP (CO-USP)
+    The provincial health divisions
+    health zones Central officers.
+5. Partner institutions and consortia/initiatives
+    Africa-CDC/ASLM through Pathogen Genomic Initiative (PGI)
+    AFROSCREEN consortium
+    ARCTIC Network
+   
+       University of Birmingham; Birmingham; UK
+       University of Edinburg; Edinburg; UK
+
+   Biosurv international, UK
+    Institute of Tropical Medicine (ITM); Antwerp; Belgium
+    TransVIHMI :Université de Montpellier, Institut de Recherche pour le Développement (IRD), Institut National de la Santé et de la Recherche Médicale (INSERM) ; Montpellier ; France,
+    University of California Los-Angeles (UCLA);Los-Angeles;USA
+    US Department of Agriculture
+    World Health Organization (WHO)
 
 
 
